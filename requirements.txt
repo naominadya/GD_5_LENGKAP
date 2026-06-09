@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+gymnasium[classic_control]
+matplotlib
+numpy
+pandas
+imageio
